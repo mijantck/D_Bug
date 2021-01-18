@@ -99,6 +99,7 @@
                 android:layout_height="wrap_content"/>
         </LinearLayout>
         <ImageView
+            android:id="@+id/go_button_splash"
             android:layout_marginBottom="25dp"
             android:layout_alignParentBottom="true"
             android:layout_alignParentRight="true"
