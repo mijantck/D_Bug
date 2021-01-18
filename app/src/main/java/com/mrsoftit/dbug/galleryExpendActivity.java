@@ -56,4 +56,3 @@ public class galleryExpendActivity extends AppCompatActivity {
 
     }
     }
-}

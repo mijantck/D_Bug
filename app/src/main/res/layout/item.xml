@@ -37,7 +37,7 @@
             android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:text="@string/view_all"
+            android:text="cancel"
             android:background="@drawable/edite_text_view_backgraund_black"
             android:textAppearance="@style/view_all"
             />
