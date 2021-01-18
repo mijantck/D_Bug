@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">D Bug</string>
+    <string name="nxt">NXT</string>
+    <string name="login">LOGIN</string>
+    <string name="tattoo">Tattoo</string>
+    <string name="studio"> Studio</string>
+
+    <string name="lvl">LVL</string>
+</resources>
